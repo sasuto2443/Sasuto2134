@@ -1,0 +1,6 @@
+Config = {
+    namescript = "sasuto hub",--Tên Script
+    logoscript = "140310426317722",--ID Logo Script
+    tacgia = taimodgame"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
